@@ -19,6 +19,8 @@
 └── README.md               # Документация проекта
 ```
 
+Для запуска проекта - docker-compose up --build
+
 ## Описание запросов
 
 GET http://localhost:3000/requests - получние всего
